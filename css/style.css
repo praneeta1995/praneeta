@@ -358,7 +358,7 @@ i { color: #9a9a9a; margin:0}
 .scroll-down-light a i:hover { color: #fff }
 
 /* scroll top */
-.scrollToTop { display: none; font-weight: bold; height: auto; padding: 0; position: fixed; right: 55px; text-align: center; text-decoration: none; top: 87%; width: auto; background-color: #000; z-index: 580; border-radius:2px; }
+.scrollToTop { display: none; font-weight: bold; height: auto; padding: 0; position: fixed; right: 35px; text-align: center; text-decoration: none; top: 94%; width: auto; background-color: #000; z-index: 555; border-radius:2px; }
 .scrollToTop i { font-size: 18px; margin: 0 6px; color: #fff; }
 .scrollToTop:hover { opacity: 0.5; }
 .scrollToTop:hover i { position: relative; }
